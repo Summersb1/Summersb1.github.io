@@ -5,7 +5,8 @@ description: 'english-test description'
 image: ''
 tags: [English, Demo]
 category: 'English'
-draft: false 
+draft: false
+lang: ko
 ---
 
 English test

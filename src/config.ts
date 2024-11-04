@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Summersb1',
-  bio: 'Sometimes, I code.',
+  bio: 'Sometimes, I code. // Discord: summersbyy',
   links: [
     {
       name: 'Ko-fi',
@@ -61,11 +61,6 @@ export const profileConfig: ProfileConfig = {
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
       url: 'https://ko-fi.com/summersby',
-    },
-    {
-      name: 'Discord',
-      icon: 'simple-icons:discord',
-      url: 'https://www.discord.com/users/955960532777697280',
     },
     {
       name: 'Gamebanana',

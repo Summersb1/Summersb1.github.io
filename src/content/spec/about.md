@@ -1,5 +1,3 @@
 # About
 
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
-
-::github{repo="saicaca/fuwari"}
+Hi, I'm making mods for ZZZ. I'm a newbie modder. I would be very happy if you bought coffee for me!
