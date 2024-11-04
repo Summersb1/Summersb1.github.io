@@ -7,8 +7,6 @@
 
 > README 버전: `2024-04-07`
 
-![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
-
 ## ✨ 특징
 
 - [x] [Astro](https://astro.build) 및 [Tailwind CSS](https://tailwindcss.com)로 구축됨

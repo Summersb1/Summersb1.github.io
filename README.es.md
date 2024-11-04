@@ -7,8 +7,6 @@ Un tema estático para blogs construido con [Astro](https://astro.build).
 
 > Versión del README: `2024-04-07`
 
-![Imagen de Vista Previa](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
-
 ## ✨ Características
 
 - [x] Construido con [Astro](https://astro.build) y [Tailwind CSS](https://tailwindcss.com)
