@@ -7,11 +7,11 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Dev Blog of Summersb1',
-  subtitle: 'Space for record-keeping.',
+  title: 'Summersb1',
+  subtitle: 'Learning Log',
   lang: 'en',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
   themeColor: {
-    hue: 250,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
+    hue: 230,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
     fixed: false,     // Hide the theme color picker for visitors
   },
   banner: {
@@ -53,24 +53,24 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Summersb1',
-  bio: 'test bio',
+  bio: 'Sometimes, I code.',
   links: [
     {
       name: 'Ko-fi',
       icon: 'simple-icons:kofi',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://ko-fi.com',
+      url: 'https://ko-fi.com/summersby',
+    },
+    {
+      name: 'Discord',
+      icon: 'simple-icons:discord',
+      url: 'https://www.discord.com/users/955960532777697280',
     },
     {
       name: 'Gamebanana',
       icon: 'simple-icons:gamebanana',
-      url: 'https://store.steampowered.com',
-    },
-    {
-      name: 'GitHub',
-      icon: 'simple-icons:github',
-      url: 'https://github.com/Summersb1',
+      url: 'https://gamebanana.com/members/3549585',
     },
   ],
 }
