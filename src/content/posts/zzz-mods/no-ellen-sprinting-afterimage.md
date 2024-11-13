@@ -1,10 +1,10 @@
 ---
-title: d3dx.ini
+title: No-Ellen-sprinting-afterimage
 published: 2024-11-13
 description: ''
 image: ''
 tags: []
-category: ''
+category: 'ZZZ'
 draft: false 
 lang: ''
 ---

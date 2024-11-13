@@ -56,6 +56,11 @@ export const profileConfig: ProfileConfig = {
   bio: 'Sometimes, I code. // Discord: summersbyy',
   links: [
     {
+      name: 'X',
+      icon: 'fa6-brands:x-twitter',
+      url: 'https://x.com/summersbyy',
+    },
+    {
       name: 'Ko-fi',
       icon: 'simple-icons:kofi',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
@@ -64,7 +69,7 @@ export const profileConfig: ProfileConfig = {
     },
     {
       name: 'Gamebanana',
-      icon: 'simple-icons:gamebanana',
+      icon: 'icon-park-solid:banana',
       url: 'https://gamebanana.com/members/3549585',
     },
   ],

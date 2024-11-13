@@ -89,7 +89,7 @@ DLL 인젝션을 통해 3Dmigoto는 게임의 렌더링 파이프라인에 영�
 
 ## 게임 모딩 자료 및 정보 공유 사이트
 
-* **Gamebanana** : 글로벌
-* **아카라이브** : 한국
-* **Caimogu** : 중국
-* **AGMG(디스코드 채널)** : 글로벌
+* **Gamebanana** : https://gamebanana.com/
+* **미호요스킨모드 채널(아카라이브)** : https://arca.live/b/genshinskinmode
+* **Caimogu** : https://www.caimogu.cc/
+* **AGMG(디스코드 채널)** : https://discord.com/invite/agmg
