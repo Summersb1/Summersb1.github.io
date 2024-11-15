@@ -8,6 +8,10 @@ category: '3Dmigoto'
 draft: false 
 ---
 
+|섹션|역할|
+|---}---|
+
+
 섹션 : ShaderOverride, ShaderRegex, TextureOverride, CustomShader, BuiltInCustomShader, BuiltInCommandList, Present, ClearRenderTargetView, ClearDepthStencilView, ClearUnorderedAccessViewUint, ClearUnorderedAccessViewFloat, Constants, Profile, ShaderRegex
 
 ---
